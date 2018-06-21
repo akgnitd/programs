@@ -10,4 +10,4 @@ def prime(number):
       else:
           print "Not Prime"
 
-prime(int(raw_input()))
+prime(int(raw_input("Enter Number: ")))
